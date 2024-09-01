@@ -1,7 +1,7 @@
 
 # Credit Card Analysis
 
-## Problem Statement
+### Problem Statement :-
 
 In the credit card industry, understanding customer behavior and transaction patterns is critical for optimizing financial strategies and improving customer experiences. Traditional methods of analyzing credit card data can be fragmented, time-consuming, and lack real-time insights.
 
